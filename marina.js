@@ -1,2 +1,2 @@
-console.log("UI/UX Marina Adel   ")
+console.log("UI/UX Marina Adel")
 // this is comment
